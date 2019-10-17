@@ -1,2 +1,2 @@
 FROM nginx
-COPY ./default.conf /etc/nginx/conf.d/default.con4f
+COPY ./default.conf /etc/nginx/conf.d/default.conf
